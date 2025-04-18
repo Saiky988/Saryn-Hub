@@ -7,7 +7,7 @@ local scripts = {
     [7018190066] = "https://raw.githubusercontent.com/Saiky988/Deadrails/refs/heads/main/DeadRails.lua", -- Lobby Dead Rails
     [70876832253163] = "https://raw.githubusercontent.com/Saiky988/Deadrails/refs/heads/main/DeadRails.lua", -- Game Dead Rails
     [6331902150] = "https://raw.githubusercontent.com/Saiky988/Forsaken/refs/heads/main/Forsaken-beta.lua", -- Forsaken
-    [7074860883] = "https://raw.githubusercontent.com/Saiky988/Arise/refs/heads/main/goonlinetools-lua.lua%20(2).txt" --Arise Crossover
+    [7074860883] = "https://raw.githubusercontent.com/Saiky988/Arise/refs/heads/main/AriseSaryn.lua" --Arise Crossover
 }
 
 if scripts[gameID] then
