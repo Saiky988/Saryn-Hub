@@ -1,5 +1,3 @@
-task.wait(1)
-
 local gameID = game.GameId
 
 local scripts = {
